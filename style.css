@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+    font-family: verdana, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+.h1{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.download-link{
+    font-size: 16px;
+    color: aquamarine;
+    display: block;
+    margin: 10px 0 20px; 
+    text-align: center;
+}
+.phone{
+    position: relative;
+    width: 375px;
+    height: 750px;
+    margin: 0 auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.video{
+    position: absolute;
+    top: 97px;
+    left: 45px;
+    width: 285px;
+    height: 555px;
+    border-radius: 20px;
+    object-fit:  cover;
+}
+.h2{
+    font-family: Verdana;
+    font-weight: 300px;
+    font-size: 42px;
+}
+.Info{
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+}
+.image{
+    width: 80%;
+    max-width: 700px;
+
+}
+.Icon{
+    width: 40px;
+    margin: 20px 0;
+}
+.description{
+    font-size: 20px;
+    color: white;
+    margin: 10px 0;
+}
+.Download-link2{
+    margin-top: 20px;
+    font-size: 16px;
+    color: aquamarine;
+}
+.copyright{
+    font-size: 14px;
+    color: gray;
+    margin-top: 30px;
+    text-align: right;
+}
